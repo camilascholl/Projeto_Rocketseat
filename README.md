@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Projeto Rocketseat é um agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado, online](https://github.com/camilascholl/Projeto_Rocketseat)
+- [Acesse o projeto finalizado, online](https://camilascholl.github.io/Projeto_Rocketseat/)
 
 
 ## :memo: Licença
